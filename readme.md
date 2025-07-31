@@ -13,13 +13,21 @@ A full-stack application for uploading, processing, and managing receipts with O
 
 ## Installation
 
+
+
+## Development Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/chinmaypatil15/receipt_management.git
+
 ### Backend Setup
 1. Navigate to the backend folder:
    ```bash
    cd receipt_management
    ```
 
-1. Create and activate a virtual environment:
+2. Create and activate a virtual environment:
 
     **Windows:**
 
