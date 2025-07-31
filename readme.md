@@ -24,7 +24,7 @@ A full-stack application for uploading, processing, and managing receipts with O
 ### Backend Setup
 1. Navigate to the backend folder:
    ```bash
-   cd receipt_management
+   cd (project_folder)
    ```
 
 2. Create and activate a virtual environment:
